@@ -1,16 +1,14 @@
+# 🧮 Pharma Calculations Toolkit
 
-# 📘 ICH Guidelines Smart Handbook
-
-A searchable and simplified handbook of ICH guidelines focused on
-API Research & Development.
+A Python toolkit for common pharmaceutical and API R&D calculations.
 
 ## 🔥 Features
-- Keyword-based search
-- Practical interpretation
-- Regulatory limits & thresholds
-- Industry-oriented examples
+- Reaction yield calculation
+- Molarity calculation
+- Impurity percentage (HPLC)
+- Residual solvent PDE compliance
+- Solvent recovery calculation
 
 ## 🚀 How to Run
 ```bash
-python handbook.py
-**
+python main.py
