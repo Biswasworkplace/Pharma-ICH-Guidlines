@@ -15,6 +15,8 @@ A Python toolkit for common pharmaceutical and API R&D calculations.
 
 ✅ Step 1: Open Command Prompt
 Select the root folder
+
+
 ex-
 cd C:\Users\Calculation
 
